@@ -1,1 +1,2 @@
-Hello DEVOPS, nice to be here
+echo Hello DEVOPS
+echo Nice to be here
